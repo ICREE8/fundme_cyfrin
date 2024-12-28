@@ -1,0 +1,11 @@
+FundMeTest:testAddsFunderToArrayOfFunders() (gas: 100185)
+FundMeTest:testFundFailsWithoutEnoughETH() (gas: 23073)
+FundMeTest:testFundUpdatesFundDataStructure() (gas: 99826)
+FundMeTest:testMinimumDollarIsFive() (gas: 8445)
+FundMeTest:testOnlyOwnerCanWithdraw() (gas: 102443)
+FundMeTest:testOwnerIsMsgSender() (gas: 10682)
+FundMeTest:testPriceFeedVersionIsAccurate() (gas: 254)
+FundMeTest:testWithdrawFromASingleFunder() (gas: 90500)
+
+FundMeTest:testWithdrawFromMultipleFunders()        (gas: 537,688)
+FundMeTest:testWithdrawFromMultipleFundersCheaper() (gas: 536,769) 000,919 
